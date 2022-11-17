@@ -1,0 +1,247 @@
+{
+  "Monday": {
+    "Breakfast": {
+      "mleko": 250,
+      "skyr waniliowy": 150,
+      "wiśnie": 150,
+      "płatki owsiane": 90,
+      "migdały w płatkach": 20
+    },
+    "Dinner": {
+      "brokuły": 150,
+      "pomidor": 120,
+      "jajka": 2,
+      "kasza pęczak": 100,
+      "feta": 60,
+      "pietruszka": 1,
+      "szczypiorek": 1,
+      "pestki dyni": 10,
+      "oliwa": 10
+    },
+    "Supper": {
+      "ananas": 320,
+      "mleko": 300,
+      "mleczko kokosowe": 150,
+      "banan": 1,
+      "odżywka białkowa": 40
+    },
+    "Snack": {
+      "mleko": 250,
+      "skyr naturalny": 150,
+      "banan": 1,
+      "morele suszone": 32,
+      "dżem": 30,
+      "nasiona chia": 30
+    }
+  },
+  "Tuesday": {
+    "Breakfast": {
+      "serek wiejski": 200,
+      "grahamki": 2,
+      "pomidor": 120,
+      "rzodkiewka": 45,
+      "pesto": 40,
+      "morele suszone": 32
+    },
+    "Dinner": {
+      "makaron penne": 100,
+      "halloumi": 80,
+      "papryka": 70,
+      "cebula": 20,
+      "pesto": 20,
+      "suszone pomidory": 14,
+      "oliwa": 5
+    },
+    "Supper": {
+      "pomidor": 120,
+      "tofu": 100,
+      "chleb graham": 90,
+      "ajvar": 30,
+      "rukola": 20,
+      "pietruszka": 1
+    },
+    "Snack": {
+      "skyr waniliowy": 300,
+      "skyr naturalny": 300,
+      "jajka": 2,
+      "truskawki": 200,
+      "budyń w proszku": 40,
+      "mleko": 300,
+      "banan": 1,
+      "odżywka białkowa": 40,
+      "wafle ryżowe": 40
+    }
+  },
+  "Wednesday": {
+    "Breakfast": {
+      "tortilla": 2,
+      "ogórek zielony": 90,
+      "falafel": 75,
+      "papryka": 70,
+      "hummus": 40,
+      "rukola": 30,
+      "banan": 1
+    },
+    "Dinner": {
+      "cukinia": 200,
+      "mozzarella": 120,
+      "pomidor": 100,
+      "makaron pełnoziarnisty": 100,
+      "papryka": 70,
+      "oliwa": 15,
+      "czosnek": 5
+    },
+    "Supper": {
+      "pomidor": 120,
+      "tofu": 100,
+      "chleb graham": 90,
+      "ajvar": 30,
+      "rukola": 20,
+      "pietruszka": 1
+    },
+    "Snack": {
+      "mleko": 300,
+      "banan": 1,
+      "ciecierzyca": 50,
+      "odżywka białkowa": 20,
+      "masło orzechowe": 10,
+      "kakao": 5
+    }
+  },
+  "Thursday": {
+    "Breakfast": {
+      "tofu": 180,
+      "pomidor": 120,
+      "kajzerki": 2,
+      "ogórek zielony": 90,
+      "ketchup": 30,
+      "rukola": 20,
+      "majonez": 20,
+      "oliwa": 10,
+      "sos sojowy": 5
+    },
+    "Dinner": {
+      "mozzarella": 120,
+      "kurki": 100,
+      "kasza pęczak": 100,
+      "koncentrat pomidorowy": 100,
+      "cebula": 100,
+      "pietruszka": 1,
+      "oliwa": 10,
+      "czosnek": 10,
+      "kurkuma": 2,
+      "curry": 2
+    },
+    "Supper": {
+      "orzechy": 12,
+      "mleko": 300,
+      "banan": 1,
+      "truskawki": 100,
+      "odżywka białkowa": 40,
+      "wafle ryżowe": 40
+    },
+    "Snack": {
+      "skyr waniliowy": 300,
+      "śliwki": 240,
+      "jajka": 2,
+      "mąka kukurydziana": 60,
+      "mąka pszenna": 60,
+      "ekstrakt waniliowy": 6,
+      "proszek do pieczenia": 4,
+      "cynamon": 2,
+      "skyr pitny": 330
+    }
+  },
+  "Friday": {
+    "Breakfast": {
+      "grahamki": 2,
+      "pomidor": 120,
+      "mozzarella": 120,
+      "ajvar": 40,
+      "szpinak liście": 25,
+      "pestki dyni": 20
+    },
+    "Dinner": {
+      "pierogi": 400,
+      "skyr naturalny": 150,
+      "papryka": 140,
+      "pestki dyni": 10
+    },
+    "Supper": {
+      "mleko": 250,
+      "banan": 1,
+      "masło orzechowe": 30,
+      "śliwki": 28,
+      "odżywka białkowa": 15,
+      "kakao": 10,
+      "orzechy": 20
+    },
+    "Snack": {
+      "skyr pitny": 330
+    }
+  },
+  "Saturday": {
+    "Breakfast": {
+      "passata": 500,
+      "grahamki": 2,
+      "tofu": 90,
+      "jajka": 1,
+      "suszone pomidory": 28,
+      "czosnek": 5
+    },
+    "Dinner": {
+      "pomidory z puszki": 400,
+      "fasola": 120,
+      "ryż": 100,
+      "granulat sojowy": 40,
+      "cebula": 30,
+      "papryczka chili": 20,
+      "oliwa": 15,
+      "pietruszka": 1,
+      "czosnek": 5
+    },
+    "Supper": {
+      "chleb graham": 150,
+      "pomidor": 120,
+      "ser gouda": 75,
+      "papryka": 70,
+      "pieczarki": 60,
+      "ketchup": 20,
+      "rukola": 20
+    },
+    "Snack": {
+      "płatki owsiane": 120,
+      "odżywka białkowa": 100,
+      "masło orzechowe": 70,
+      "kakao": 30,
+      "migdały": 30,
+      "nasiona chia": 10
+    }
+  },
+  "Sunday": {
+    "Breakfast": {
+      "grahamki": 2,
+      "pomidor": 120,
+      "mozzarella": 120,
+      "ajvar": 40,
+      "szpinak liście": 25,
+      "pestki dyni": 20
+    },
+    "Dinner": {
+      "ziemniaki": 400,
+      "tofu": 180,
+      "marchew": 80,
+      "oliwa": 15
+    },
+    "Supper": {
+      "truskawki": 200,
+      "skyr naturalny": 150,
+      "banan": 1,
+      "tortilla": 1,
+      "czekolada gorzka": 36
+    },
+    "Snack": {
+      "banan": 1
+    }
+  }
+}
